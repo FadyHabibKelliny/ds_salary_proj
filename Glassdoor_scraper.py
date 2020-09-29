@@ -4,7 +4,7 @@ Created on Sat Sep 26 00:35:57 2020
 
 @author: Fady_
 """
-
+#https://github.com/arapfaik/scraping-glassdoor-selenium
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time
